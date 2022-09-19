@@ -12,9 +12,7 @@ In the project directory **mobile** you can run:
 
 # Mobile
 
-![](web/src/assets/interface-mob-3.png)
-![](web/src/assets/interface-mob-2.png)
-![](web/src/assets/interface-mob-1.png)
+![](web/src/assets/media-mobile.gif)
 
 
 # Desktop
